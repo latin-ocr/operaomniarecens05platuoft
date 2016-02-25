@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniarecens05platuoft_0105.png"; bbox 0 0 1754 2964; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 140 2964">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 140 2964">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 140 2964; baseline 0 -1753"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 140 2964; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 949 1145 1158">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 945 1145 1158">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 949 1145 1158; baseline 0.037 -78"><span class='ocrx_word' id='word_1_2' title='bbox 148 1139 150 1141; x_wconf 9' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 1017 1025 1158; x_wconf 66' lang='lat' dir='ltr'><strong>mumolum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1143 949 1145 952; x_wconf 2' lang='grc' dir='ltr'>ᾧ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 52 1394 1577 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 48 1371 1577 1557">
+     <span class='ocr_line' id='line_1_3' title="bbox 52 1394 1577 1552; baseline 0.024 -63.906"><span class='ocrx_word' id='word_1_5' title='bbox 52 1394 1577 1552; x_wconf 54' lang='lat' dir='ltr'><strong>onAnmlnnM„&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
